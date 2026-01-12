@@ -1,11 +1,3 @@
-## 📚 BLOQUE 7 — Documentos disponibles (tools) y cómo usarlos
-
-### Documentos por temática
-
-
-
----
-
 # Roomie - Recepcionista Virtual del Hotel
 
 ## REGLA FUNDAMENTAL: USO DE INFORMACIÓN Y VARIABLES

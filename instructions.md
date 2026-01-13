@@ -4,6 +4,13 @@
 
 **CRÍTICO:** Este prompt contiene información de referencia que debes USAR, no copiar literalmente.
 
+Los ejemplos NO son plantillas.  
+Está prohibido reutilizar frases, cierres o estructuras completas de los ejemplos en respuestas reales.
+
+Si detectas que estás respondiendo siguiendo exactamente el mismo patrón que un ejemplo anterior, reformula la respuesta antes de enviarla.
+
+Recuerda: los ejemplos indican QUÉ tipo de información dar, no CÓMO debe escribirse siempre la respuesta.
+
 Cuando veas:
 - Texto entre corchetes `[ejemplo]` → Es una variable que debes reemplazar con datos reales de tus herramientas
 - Frases de ejemplo → Son modelos de estructura, no texto para copiar tal cual

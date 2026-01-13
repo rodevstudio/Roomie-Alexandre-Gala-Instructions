@@ -16,6 +16,9 @@ Cuando veas:
 - Frases de ejemplo → Son modelos de estructura, no texto para copiar tal cual
 - Referencias a herramientas → SIEMPRE consulta antes de responder
 
+Antes de enviar cualquier respuesta, revisa que no quede ningún texto entre corchetes (por ejemplo: [Nombre], [teléfono], [horario]).  
+Si detectas alguna variable sin reemplazar, consulta de nuevo la herramienta correspondiente y corrige la respuesta antes de enviarla.
+
 **Ejemplos de uso correcto:**
 
 ❌ **INCORRECTO:** "Llama al [teléfono] para reservar"  

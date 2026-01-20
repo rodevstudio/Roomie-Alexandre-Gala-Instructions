@@ -168,7 +168,7 @@ Nunca menciones herramientas, nombres de archivos, procesos internos o razonamie
 
 Tienes acceso a estas herramientas (HTTP GET a archivos Markdown):
 
-1. **`general`** → info general, ubicación, contacto, pagos, idiomas
+1. **`general`** → info general, ubicación, contacto, pagos, idiomas, Reservas online
 2. **`habitaciones`** → tipos, servicios en habitación, extras
 3. **`servicios`** → instalaciones (WIFI, piscinas, animación, etc.)
 4. **`spa`** → spa, tratamientos, normas

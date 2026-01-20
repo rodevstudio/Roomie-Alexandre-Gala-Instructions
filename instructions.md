@@ -169,6 +169,10 @@ En estos casos está PROHIBIDO:
 - derivar a recepción
 - pedir confirmación adicional
 
+Si ya has dado correctamente el dato de una tool,
+NO añadas una derivación final por inercia.
+
+
 Solo debes derivar cuando:
 - la información no esté presente en ninguna herramienta, o
 - el dato dependa de la reserva individual del huésped y no pueda deducirse del contenido de la tool.

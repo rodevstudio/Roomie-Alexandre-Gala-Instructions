@@ -1,6 +1,6 @@
 ## Emergencias
 
-En caso de emergencia en la habitación, el huésped debe contactar **inmediatamente** con Recepción llamando al **9**.
+En caso de emergencia en la habitación, el huésped debe contactar **inmediatamente** con Recepción llamando al **9** desde el telefono de su habitación o al (+34) 922 79 45 13 desde cualquier otro dispositivo.
 
 En la parte interior de la puerta de cada habitación se encuentra el **plano de situación y evacuación**, con la indicación **“usted está aquí”**.
 

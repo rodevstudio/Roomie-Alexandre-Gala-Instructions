@@ -6,6 +6,7 @@ El hotel dispone de un **SPA & Wellness Center** diseñado para el bienestar y l
 **Teléfono (extensión):** **315**
 **Acceso:** solo **mayores de 16 años**
 **Taquillas:** **1 €** (recuperable)
+**Precio:** **Disponible en el link de reserva** 
 
 **Club Alexandre**
 Los huéspedes con **Habitación Club Alexandre** disponen de **entrada diaria gratuita** al circuito de SPA.

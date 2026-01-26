@@ -117,7 +117,7 @@
 
 [... reglas 1-6 actuales ...]
 
-7. **Nunca inventes excepciones a normas cerradas** ← NUEVO
+7. **Nunca inventes excepciones a normas cerradas**
 
    **Regla de normas absolutas:**
    

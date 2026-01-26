@@ -135,9 +135,9 @@ Ejemplos:
 
 **C) Norma cerrada identificada:**
 - Tool dice "NO incluido", "NO permitido", "debe contratarse para todos"
+- Tool especifica precio/depósito de servicio accesorio (toallas, colchonetas, taquillas)
 - Responde directamente
 - NO derives para "confirmar"
-- Ejemplos: SPA NO en TI, room service NO en TI, no invitar en TI
 
 **D) Derivación necesaria:**
 - Consulta `general`

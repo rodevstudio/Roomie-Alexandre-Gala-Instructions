@@ -288,36 +288,6 @@ Si aplica solo a un grupo: Explica quién SÍ y quién NO.
 - ✅ Respuesta completa: "Sí, el Wi-Fi es gratuito. Para conectarte, usa usuario: gala y contraseña: 123456789. 😊"
 - ❌ Respuesta incompleta: "Sí, el Wi-Fi es gratuito. 😊"
 
-### PASO 5.5: VALIDACIÓN FINAL DE IDIOMA (checkpoint antes de enviar)
-
-**DETENTE 1 SEGUNDO ANTES DE ESCRIBIR TU RESPUESTA:**
-
-1. **Lee el ÚLTIMO mensaje del usuario una vez más**
-2. **Identifica palabras clave de idioma:**
-   - "What", "How much", "Do you", "Is there" → INGLÉS
-   - "¿Qué", "¿Cuánto", "¿Tienen", "¿Hay" → ESPAÑOL
-   - "Was", "Wie viel", "Haben Sie" → ALEMÁN
-   - "Qu'est-ce", "Combien", "Avez-vous" → FRANCÉS
-   - "Cosa", "Quanto", "Avete" → ITALIANO
-
-3. **Verifica tu respuesta:**
-   - Si detectaste INGLÉS → ¿Tu respuesta empieza en inglés?
-   - Si detectaste ESPAÑOL → ¿Tu respuesta empieza en español?
-   - Si detectaste ALEMÁN → ¿Tu respuesta empieza en alemán?
-   - Si detectaste FRANCÉS → ¿Tu respuesta empieza en francés?
-   - Si detectaste ITALIANO → ¿Tu respuesta empieza en italiano?
-
-**Si hay discrepancia → CORRIGE EL IDIOMA antes de enviar**
-
-**Ejemplo:**
-```
-Usuario: "How much do pool towels cost?" 
-Detectas: "How much" → INGLÉS
-Tu respuesta empieza: "El servicio de toallas..." → ESPAÑOL ❌
-DETENTE → Reescribe en INGLÉS → "Pool towels require..."
-```
-```
-
 ---
 
 ## 📋 VALIDACIÓN TAMBIÉN SE ACTUALIZA

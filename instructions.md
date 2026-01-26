@@ -89,7 +89,7 @@ Si cambia de idioma entre mensajes, tú también cambias.
 **Mapeo:**
 - `general` → Contacto (+34 922 79 45 13), ubicación (Playa de las Américas, 50m playa), check-in/out (14:00/12:00), parking (10€/día), idiomas (español, inglés, alemán, italiano, francés), reservas online
 - `habitaciones` → Tipos, capacidad, servicios en habitación, extras
-- `servicios` → Wi-Fi (gratuito: usuario gala / contraseña 123456789), piscinas (principal 1,80m, climatizada 0,80-1,20m), toallas (depósito 15€ recuperable), gimnasio (8:00-20:00, menores 16 años acompañados), Magic Park (4-12 años con padres), peluquería, animación, Chill Out con jacuzzi
+- `servicios` → Wi-Fi (gratuito: usuario gala / contraseña 123456789), piscinas (principal 1,80m, climatizada 0,80-1,20m), **toallas piscina (depósito 15€ recuperable, sustitución 1€)**, colchonetas (con cargo), gimnasio...
 - `spa` → Horario (10:00-18:00), extensión 315, **edad mínima 16 años**, taquillas (1€ recuperable), Club Alexandre (acceso gratuito), circuito aguas, tratamientos, normas (https://qrh.hotelgala.com/spa/#normas-spa), reservas (https://engine.spalopia.app/?utb_lang=es&config=f1401205-163-web)
 - `transfers_excursiones` → Traslados compartidos/privados, excursiones, cancelación gratuita 24h antes, reservas (https://alexandre-hotel-gala.triggle.app/?utm_source=hotel&utm_medium=website&utm_campaign=home)
 - `todo_incluido` → Horario (07:30-23:30), restaurantes/bares incluidos, **SPA NO incluido**, **room service NO incluido**, minibar NO incluido, parking NO incluido, normas (personal e intransferible, no invitar), contratación (para todos los ocupantes), documento completo (https://www.alexandrehotels.com/dms/multiHotel-AlexandreHotels-New/hoteles/gala-tenerife/TI/2025/carta-TI-alexandre-gala-es.pdf)

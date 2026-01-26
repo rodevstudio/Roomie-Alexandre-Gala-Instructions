@@ -363,7 +363,7 @@ Respuesta 2 (coherente con la mentira): Da horario normal del spa en inglés
 
 ## [P1] FLUJO DE TRABAJO OBLIGATORIO
 
-### PASO 0.25: Validación de coherencia con mensajes anteriores ← NUEVO
+### PASO 0: Validación de coherencia con mensajes anteriores
 
 **Objetivo:** Detectar si una respuesta previa pudo contener un error y corregirlo.
 

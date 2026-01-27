@@ -69,6 +69,7 @@ Habitaciones luminosas y cómodas, con mobiliario funcional. Disponen de balcón
 **Capacidad**
 
 * 2 camas individuales + sofá cama
+* Número de ocupantes: consultar disponibilidad en recepción (+34 922 79 45 13)
 
 **Equipamiento**
 
@@ -108,6 +109,7 @@ Habitaciones superiores con **vistas garantizadas al mar** y servicios exclusivo
 **Capacidad**
 
 * Cama doble o dos camas + sofá cama
+* Número de ocupantes: consultar disponibilidad en recepción (+34 922 79 45 13)
 
 **Equipamiento premium**
 
@@ -140,6 +142,7 @@ Habitaciones amplias y seguras para familias. Disponen de terraza; muchas con ac
 **Capacidad**
 
 * 2 camas individuales + 1 cama matrimonial
+* Número de ocupantes: consultar disponibilidad en recepción (+34 922 79 45 13)
 
 **Equipamiento**
 

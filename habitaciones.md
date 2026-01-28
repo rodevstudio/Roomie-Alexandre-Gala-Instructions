@@ -168,4 +168,4 @@ Habitaciones amplias y seguras para familias. Disponen de terraza; muchas con ac
 
 #  Link oficial de habitaciones y reservas
 
-[https://www.alexandrehotels.com/hoteles/alexandre-gala?utm_source=google&utm_medium=cpc&utm_campaign=9968060638&utm_term=hotel%20gala%20tenerife&utm_content=433130668022&gad_source=1&gad_campaignid=9968060638&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5aVBhBvgNyGRn4l-7gU-7RA_pY36oEl3H76XNPFvPKRRL_ENUtOB7xoC0H0QAvD_BwE](https://www.alexandrehotels.com/hoteles/alexandre-gala?utm_source=google&utm_medium=cpc&utm_campaign=9968060638&utm_term=hotel%20gala%20tenerife&utm_content=433130668022&gad_source=1&gad_campaignid=9968060638&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5aVBhBvgNyGRn4l-7gU-7RA_pY36oEl3H76XNPFvPKRRL_ENUtOB7xoC0H0QAvD_BwE)
+https://www.alexandrehotels.com/hoteles/alexandre-gala?_gl=1*pr0pd1*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopMztOdp_eNGcy1O9Zc38hou_TfEIDEXxuDCfpZLarsQHENknky1sDcaAjPSEALw_wcB

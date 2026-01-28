@@ -91,4 +91,4 @@ El régimen **Todo Incluido** permite el acceso a **bares y restaurantes del hot
 ## Documento informativo (PDF)
 
 Documento completo del régimen Todo Incluido:
-[https://www.alexandrehotels.com/dms/multiHotel-AlexandreHotels-New/hoteles/gala-tenerife/TI/2025/carta-TI-alexandre-gala-es.pdf](https://www.alexandrehotels.com/dms/multiHotel-AlexandreHotels-New/hoteles/gala-tenerife/TI/2025/carta-TI-alexandre-gala-es.pdf)
+https://www.alexandrehotels.com/dms/multiHotel-AlexandreHotels-New/hoteles/gala-tenerife/TI/2025/carta-TI-alexandre-gala-es.pdf

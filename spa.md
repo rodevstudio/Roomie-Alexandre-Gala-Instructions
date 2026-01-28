@@ -12,7 +12,7 @@ El hotel dispone de un **SPA & Wellness Center** diseñado para el bienestar y l
 Los huéspedes con **Habitación Club Alexandre** disponen de **entrada diaria gratuita** al circuito de SPA.
 
 **Normas de uso (obligatorio leer y respetar):**
-[https://qrh.hotelgala.com/spa/#normas-spa](https://qrh.hotelgala.com/spa/#normas-spa)
+https://qrh.hotelgala.com/spa/
 
 ---
 
@@ -63,4 +63,4 @@ Superficie aproximada de **1.200 m²** dedicada al bienestar.
 
 ## Reservar servicios (link)
 
-[https://engine.spalopia.app/?utb_lang=es&config=f1401205-163-web](https://engine.spalopia.app/?utb_lang=es&config=f1401205-163-web)
+https://engine.spalopia.app/?utb_lang=es&config=f1401205-163-web

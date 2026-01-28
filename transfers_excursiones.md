@@ -24,4 +24,4 @@ El hotel ofrece acceso a **actividades, excursiones y experiencias locales** en 
 
 Reservas disponibles de forma online.
 **Enlace directo para reservar traslados y actividades:**
-[https://alexandre-hotel-gala.triggle.app/?utm_source=hotel&utm_medium=website&utm_campaign=home](https://alexandre-hotel-gala.triggle.app/?utm_source=hotel&utm_medium=website&utm_campaign=home)
+https://alexandrehotels.triggle.app/es-ES?utm_source=hotel&utm_medium=website&utm_campaign=home

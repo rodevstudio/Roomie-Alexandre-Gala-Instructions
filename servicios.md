@@ -130,6 +130,8 @@ Ofrece servicios integrados para eventos empresariales.
 
 Gimnasio equipado con máquinas de musculación, cardio y tatami.
 
+Gratuito para huéspedes
+
 * **Horario:** **8:00–20:00**
 * **Norma:** menores de **16 años** solo pueden utilizar el gimnasio acompañados por padres o tutores
 

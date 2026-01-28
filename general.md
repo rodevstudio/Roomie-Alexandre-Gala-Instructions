@@ -70,7 +70,7 @@ En pleno centro de Playa de las Américas, a **50 metros de la playa**, con acce
 # Google Maps
 
 Ubicación en Google Maps:
-[https://maps.app.goo.gl/TEqMBqyGMYnY1TnL6](https://maps.app.goo.gl/TEqMBqyGMYnY1TnL6)
+www.google.com/maps?client=opera-gx&oe=UTF-8&um=1&ie=UTF-8&fb=1&gl=es&sa=X&geocode=KRHXkYlkl2oMMdZvMwfeF4Ov&daddr=Av.+Arquitecto+Gómez+Cuesta,+3,+38650+Playa+de+las+Américas,+Santa+Cruz+de+Tenerife
 
 ---
 

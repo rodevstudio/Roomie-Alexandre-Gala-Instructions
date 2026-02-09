@@ -53,11 +53,15 @@ Todas las habitaciones son **luminosas y espaciosas**, con **terraza o balcón**
 
 * **Caja fuerte:** **2,50 €/día** (solicitar en recepción)
 * **Minibar:**
-* Pack completo: **25 €**
+  * Pack completo: **25 €**
+  * **Unidades limitadas** - consultar disponibilidad en recepción antes de solicitar
+* **Plancha:**
+  * Disponible con depósito de **20 €**
+  * **Unidades limitadas** - consultar disponibilidad en recepción antes de solicitar
 * **Cápsulas de café:**
-* **0,50 €/unidad** o **6 €/caja (15)**
+  * **0,50 €/unidad** o **6 €/caja (15)**
 * **Lavandería y planchado:**
-* Entrega en **48 h** (consultar condiciones y precios)
+  * Entrega en **48 h** (consultar condiciones y precios)
 
 ---
 

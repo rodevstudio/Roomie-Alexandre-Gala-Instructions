@@ -26,11 +26,19 @@ Servicio de **cócteles, combinados y refrescos**. Espacio con **espectáculos**
 
 Cocina **canaria e internacional**, servicio gastronómico durante todo el día, espacio amplio y luminoso. Servicio tipo **buffet**.
 
-**Horarios**
+**Horarios:**
+- Desayuno: 07:30–10:30
+- Almuerzo: 13:00–15:30
+- Cena temática: 18:30–21:30
 
-* **Desayuno:** 07:30–10:30
-* **Almuerzo:** 13:00–15:30
-* **Cena temática:** 18:30–21:30
+**Menús temáticos (cena):**
+- **Lunes:** Mexicano
+- **Martes:** Oriental (sushi, asiático)
+- **Miércoles:** USA (americano)
+- **Jueves:** Francés
+- **Viernes:** Italiano
+- **Sábado:** Canario-Español
+- **Domingo:** Británico
 
 **Servicio de habitaciones**
 Mismo horario que el **Restaurante Buffet**.

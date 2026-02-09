@@ -35,10 +35,10 @@ Zona de piscinas con **agua dulce**:
 * **Piscina infantil climatizada (club infantil exterior):** profundidad **0,30 m**
 * **Solárium:** amplio, con parasoles y hamacas
 
-**Toalla y colchoneta (con cargo)**
-
-* **Depósito por toalla:** **15 €**
-* **Sustitución de toalla:** **1 €**
+**Toallas de piscina**
+* **Depósito recuperable:** 15€ (se devuelve al finalizar estancia)
+* **Sustitución por toalla limpia:** 1€ (opcional)
+* Servicio gratuito (solo pagas si pierdes la toalla o solicitas cambio)
 
 Además, el hotel dispone de **SPA con piscina de hidromasaje**.
 **Horario:** **10:00–18:00**

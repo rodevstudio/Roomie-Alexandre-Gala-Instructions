@@ -54,28 +54,25 @@ También se realizan sesiones de **manicura** y **pedicura**.
 
 ## Animación
 
-Actividades organizadas por el equipo de animación para **adultos y niños**.
+**Programa de entretenimiento:**
+* Actividades diarias para adultos y niños
+* Shows profesionales todas las noches
+* **Panel de información:** Consulta el panel de animación y shows en el hotel para ver horarios y actividades actualizados diariamente
 
-**Actividades deportivas**
-
+**Actividades disponibles:**
 * Aquagym
 * Waterpolo
 * Dardos
-* Tiro
+* Tiro con arco
 * Billar
 * Ping pong
-* Sjoelbak
+* Sjoelbak (juego holandés de mesa)
+* Clases de Zumba
 
-**Actividades de ocio**
-
-* Juegos de participación
-* Concursos
-* Espectáculos nocturnos para todos los públicos
-* Música en vivo para bailar
-
-**Novedades**
-
-* Clases de **Zumba** y disciplinas de fitness impartidas por instructores profesionales
+**Magic Park (área infantil):**
+* Edades: 4 a 12 años
+* Los niños deben estar siempre acompañados por sus padres
+* Horario: Consultar en el panel de animación
 
 ---
 

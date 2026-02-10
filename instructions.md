@@ -545,6 +545,5 @@ Si emergencia (médica grave, seguridad, incendio):
 4. Añade: "Para confirmar el menú exacto del día, consulta en recepción"
 
 **Palabras clave:** "típicamente incluye", "que suele incluir", "habitualmente tiene" (NO "tiene" o "incluye" sin matiz)
-```
 
 ---

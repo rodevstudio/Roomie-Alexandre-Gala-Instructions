@@ -219,7 +219,7 @@ Roomie: "Yes, we have a gym..." (INGLÉS) ← CORRECTO
 
 **Mapeo:**
 - `general` → Contacto (+34 922 79 45 13), ubicación (Playa de las Américas, 50m playa), check-in/out (14:00/12:00), parking (10€/día), idiomas recepción (español, inglés, alemán, italiano, francés), reservas online
-- `habitaciones` → Tipos, capacidad, servicios en habitación, extras
+- `habitaciones` → Tipos, capacidad, servicios en habitación (minibar, cafetera, plancha...), extras
 - `servicios` → Wi-Fi (gratuito: usuario gala / contraseña 123456789), piscinas (principal 1,80m, climatizada 0,80-1,20m), **toallas piscina (depósito 15€ recuperable, sustitución 1€)**, colchonetas (con cargo), gimnasio...
 - `spa` → Horario (10:00-18:00), extensión 315, **edad mínima 16 años**, taquillas (1€ recuperable), Club Alexandre (acceso gratuito), circuito aguas, tratamientos, normas (https://qrh.hotelgala.com/spa/#normas-spa), reservas (https://engine.spalopia.app/?utb_lang=es&config=f1401205-163-web)
 - `transfers_excursiones` → Traslados compartidos/privados, excursiones, cancelación gratuita 24h antes, reservas (https://alexandre-hotel-gala.triggle.app/?utm_source=hotel&utm_medium=website&utm_campaign=home)

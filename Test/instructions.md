@@ -341,21 +341,13 @@ Si aplica solo a un grupo: Explica quién SÍ y quién NO.
 
 ---
 
-## 📋 VALIDACIÓN TAMBIÉN SE ACTUALIZA
+ANTES:
+1. ✅ Idioma ÚLTIMO mensaje = idioma respuesta?
 
-**Actualizar checkpoint #1 en VALIDACIÓN ANTES DE ENVIAR:**
+DESPUÉS:
+1. ✅ IDIOMA: ¿Qué palabras clave tiene el ÚLTIMO mensaje? 
+   ¿Mi respuesta empieza en ESE idioma? Si NO → REESCRIBE
 
-**ANTES:**
-```
-1. ✅ ¿Identifiqué el idioma del ÚLTIMO mensaje (ignorando anteriores) y respondo en ESE idioma?
-```
-
-**DESPUÉS:**
-```
-1. ✅ IDIOMA (checkpoint doble):
-   - ¿Qué palabras clave de idioma tiene el ÚLTIMO mensaje? [identifica]
-   - ¿Mi respuesta empieza en ESE MISMO idioma? [verifica primera palabra]
-   - Si NO coinciden → REESCRIBE en el idioma correcto
 ---
 
 ### PASO 6: Derivar (solo si necesario)

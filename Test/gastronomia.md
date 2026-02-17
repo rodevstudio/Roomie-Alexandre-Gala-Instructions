@@ -31,27 +31,23 @@ Cocina **canaria e internacional**, servicio gastronómico durante todo el día,
 - Almuerzo: 13:00–15:30
 - Cena temática: 18:30–21:30
 
-## 🔴 TABLA DE CENAS TEMÁTICAS — CONSULTA OBLIGATORIA
+## 🔴 CENAS TEMÁTICAS — CONSULTA OBLIGATORIA
 
-**ANTES de responder cualquier pregunta sobre cenas temáticas, 
-lee esta tabla y úsala LITERALMENTE. 
-NO uses conocimiento propio. NO inventes platos.**
+**ANTES de responder sobre cenas, lee esta lista LITERALMENTE:**
 
-| DÍA       | MENÚ TEMÁTICO     |
-|-----------|-------------------|
-| Lunes     | Mexicano          |
-| Martes    | Oriental/Asiático |
-| Miércoles | Americano         |
-| Jueves    | Francés           |
-| Viernes   | Italiano          |
-| Sábado    | Canario-Español   |
-| Domingo   | Británico         |
+- El día LUNES la cena temática es: MEXICANO
+- El día MARTES la cena temática es: ORIENTAL/ASIÁTICO
+- El día MIÉRCOLES la cena temática es: AMERICANO
+- El día JUEVES la cena temática es: FRANCÉS
+- El día VIERNES la cena temática es: ITALIANO
+- El día SÁBADO la cena temática es: CANARIO-ESPAÑOL
+- El día DOMINGO la cena temática es: BRITÁNICO
 
 **PROCESO OBLIGATORIO:**
 1. ¿Qué día pregunta el usuario?
-2. Busca ESE día en la tabla de arriba
+2. Busca ESE día exacto en la lista
 3. Responde SOLO con el menú de ESE día
-4. NO añadas platos específicos
+4. NO uses conocimiento propio
 5. Añade siempre: "Para el menú exacto consulta con el personal del restaurante."
 
 **EJEMPLO:**
@@ -59,7 +55,6 @@ P: "¿Qué hay el sábado?"
 ✅ "El sábado ofrecemos menú temático Canario-Español. 
 Para conocer el menú exacto, consulta con el personal 
 del restaurante. 😊"
-❌ NUNCA: inventar platos, usar email, derivar a recepción
    
 **Servicio de habitaciones**
 Mismo horario que el **Restaurante Buffet**.

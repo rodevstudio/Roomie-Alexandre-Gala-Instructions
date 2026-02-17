@@ -40,6 +40,8 @@ Zona de piscinas con **agua dulce**:
 * **Depósito recuperable:** 15€ (se devuelve al finalizar estancia)
 * **Sustitución por toalla limpia:** 1€ (opcional, solo si solicitas cambio)
 
+El hotel NO dispone de servicio de colchonetas.
+
 Además, el hotel dispone de **SPA con piscina de hidromasaje**.
 **Horario:** **10:00–18:00**
 

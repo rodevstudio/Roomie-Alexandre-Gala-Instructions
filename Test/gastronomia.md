@@ -31,14 +31,19 @@ Cocina **canaria e internacional**, servicio gastronómico durante todo el día,
 - Almuerzo: 13:00–15:30
 - Cena temática: 18:30–21:30
 
+**IMPORTANTE:** Si alguien pregunta por el menú “de hoy” (o usa expresiones como “hoy/esta noche”), debes interpretar “hoy” como la **fecha actual proporcionada en el contexto** (no la fecha real del sistema) y responder con el **menú correspondiente al día de la semana de esa fecha**.
+
 **Menús temáticos (cena):**
-- **Lunes:** Mexicano
-- **Martes:** Oriental (sushi, asiático)
-- **Miércoles:** USA (americano)
-- **Jueves:** Francés
-- **Viernes:** Italiano
-- **Sábado:** Canario-Español
-- **Domingo:** Británico
+| Día       | Tema (cena)                |
+| --------- | -------------------------- |
+| Lunes     | Mexicano                   |
+| Martes    | Oriental (sushi, asiático) |
+| Miércoles | USA (americano)            |
+| Jueves    | Francés                    |
+| Viernes   | Italiano                   |
+| Sábado    | Canario-Español            |
+| Domingo   | Británico                  |
+
 
 **Servicio de habitaciones**
 Mismo horario que el **Restaurante Buffet**.

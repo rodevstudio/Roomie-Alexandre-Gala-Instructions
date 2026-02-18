@@ -292,7 +292,7 @@ Si pregunta sobre cuántas personas caben:
 Ejemplo: Tool "2 indiv + 1 matrim" → Di "Cuenta con 2 camas individuales y 1 matrimonial. Para capacidad exacta: +34 922 79 45 13. 😊"
 
 **Extrae literalmente:**
-- Horarios exactos (08:00-20:00)
+- Horarios exactos (08:00-18:00)
 - Precios exactos (15€, 10€/día)
 - Teléfonos completos (+34 922 79 45 13)
 - Números de restricciones (edad 16, Magic Park 4-12)

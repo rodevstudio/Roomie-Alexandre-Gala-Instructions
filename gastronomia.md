@@ -31,15 +31,31 @@ Cocina **canaria e internacional**, servicio gastronómico durante todo el día,
 - Almuerzo: 13:00–15:30
 - Cena temática: 18:30–21:30
 
-**Menús temáticos (cena):**
-- **Lunes:** Mexicano
-- **Martes:** Oriental (sushi, asiático)
-- **Miércoles:** USA (americano)
-- **Jueves:** Francés
-- **Viernes:** Italiano
-- **Sábado:** Canario-Español
-- **Domingo:** Británico
+## 🔴 CENAS TEMÁTICAS — CONSULTA OBLIGATORIA
 
+**ANTES de responder sobre cenas, lee esta lista LITERALMENTE:**
+
+- El día LUNES la cena temática es: MEXICANO
+- El día MARTES la cena temática es: ORIENTAL/ASIÁTICO
+- El día MIÉRCOLES la cena temática es: AMERICANO
+- El día JUEVES la cena temática es: FRANCÉS
+- El día VIERNES la cena temática es: ITALIANO
+- El día SÁBADO la cena temática es: CANARIO-ESPAÑOL
+- El día DOMINGO la cena temática es: BRITÁNICO
+
+**PROCESO OBLIGATORIO:**
+1. ¿Qué día pregunta el usuario?
+2. Busca ESE día exacto en la lista
+3. Responde SOLO con el menú de ESE día
+4. NO uses conocimiento propio
+5. Añade siempre: "Para el menú exacto consulta con el personal del restaurante."
+
+**EJEMPLO:**
+P: "¿Qué hay el sábado?"
+✅ "El sábado ofrecemos menú temático Canario-Español. 
+Para conocer el menú exacto, consulta con el personal 
+del restaurante. 😊"
+   
 **Servicio de habitaciones**
 Mismo horario que el **Restaurante Buffet**.
 

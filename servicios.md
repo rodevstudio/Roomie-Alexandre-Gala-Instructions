@@ -36,9 +36,11 @@ Zona de piscinas con **agua dulce**:
 * **Solárium:** amplio, con parasoles y hamacas
 
 **Toallas de piscina**
+* **Servicio gratuito** para todos los huéspedes
 * **Depósito recuperable:** 15€ (se devuelve al finalizar estancia)
-* **Sustitución por toalla limpia:** 1€ (opcional)
-* Servicio gratuito (solo pagas si pierdes la toalla o solicitas cambio)
+* **Sustitución por toalla limpia:** 1€ (opcional, solo si solicitas cambio)
+
+El hotel NO dispone de servicio de colchonetas.
 
 Además, el hotel dispone de **SPA con piscina de hidromasaje**.
 **Horario:** **10:00–18:00**

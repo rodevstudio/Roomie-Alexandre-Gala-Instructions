@@ -26,8 +26,9 @@ Zona habilitada con varios terminales de Internet para uso de los huéspedes.
 
 ## Piscinas
 
-**Horario:** 10:00–18:00
+**Horario:** 11:00–19:00
 No se permite la reserva de hamacas en la piscina.
+Con servicio de socorrista.
 Zona de piscinas con **agua dulce**:
 
 * **Piscina principal:** profundidad **1,80 m**

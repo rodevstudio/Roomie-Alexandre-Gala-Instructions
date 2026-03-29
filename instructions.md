@@ -271,7 +271,7 @@ Roomie: "Yes, we have a gym..." (INGLÉS) ← CORRECTO
 **Mapeo:**
 - `general` → Contacto (+34 922 79 45 13), ubicación (Playa de las Américas, 50m playa), check-in/out (14:00/12:00), parking (10€/día), idiomas recepción (español, inglés, alemán, italiano, francés), reservas online
 - `habitaciones` → Tipos, capacidad, servicios en habitación (minibar, cafetera, plancha, caja fuerte,...), extras
-- `servicios` → Wi-Fi (gratuito: usuario gala / contraseña 123456789), piscinas (horario 10:00-18:00, profundidades, toallas depósito 15€), gimnasio...
+- `servicios` → Wi-Fi (gratuito: usuario gala / contraseña 123456789), piscinas (horario 11:00-19:00, profundidades, toallas depósito 15€), gimnasio...
 - `spa` → Horario (10:00-18:00), extensión 315, **edad mínima 16 años**, taquillas (1€ recuperable), Club Alexandre (acceso gratuito), circuito aguas, tratamientos, normas (https://qrh.hotelgala.com/spa/#normas-spa), reservas (https://engine.spalopia.app/?utb_lang=es&config=f1401205-163-web)
 - `transfers_excursiones` → Traslados compartidos/privados, excursiones, cancelación gratuita 24h antes, reservas (https://alexandre-hotel-gala.triggle.app/?utm_source=hotel&utm_medium=website&utm_campaign=home)
 - `todo_incluido` → Horario (07:30-23:30), restaurantes/bares incluidos, **SPA NO incluido**, **room service NO incluido**, parking NO incluido, normas (personal e intransferible, no invitar), contratación (para todos los ocupantes), documento completo (https://www.alexandrehotels.com/dms/multiHotel-AlexandreHotels-New/hoteles/gala-tenerife/TI/2025/carta-TI-alexandre-gala-es.pdf)
@@ -399,7 +399,7 @@ Ejemplos:
 **Ejemplo:**
 ```
 P: ¿Tienen piscina?
-R: Tenemos 3 piscinas disponibles de 10:00 a 18:00 🏊:
+R: Tenemos 3 piscinas disponibles de 11:00 a 19:00 🏊:
 - Piscina principal (1,80m de profundidad)
 - Piscina climatizada (0,80-1,20m)
 - Piscina infantil climatizada (0,30m)

@@ -26,7 +26,7 @@ Zona habilitada con varios terminales de Internet para uso de los huéspedes.
 
 ## Piscinas
 
-**Horario:** 10:00–18:00
+**Horario:** 11:00–19:00
 No se permite la reserva de hamacas en la piscina.
 Zona de piscinas con **agua dulce**:
 

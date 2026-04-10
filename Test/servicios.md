@@ -77,6 +77,9 @@ También se realizan sesiones de **manicura** y **pedicura**.
 * Los niños deben estar siempre acompañados por sus padres
 * Horario: Consultar en el panel de animación
 
+### Cómo llegar a las actividades
+La ubicación de cada actividad (aquagym, tiro con arco, billar, etc.) se indica en el panel de animación del hotel.
+
 ---
 
 ## Game Zone

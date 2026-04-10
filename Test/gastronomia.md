@@ -160,3 +160,9 @@ de 13:00 a 16:00.
 Los menús completos (carta y Todo Incluido) están disponibles en:
 * El QR impreso en la tarjeta-llave de la habitación
 * Las pantallas del restaurante y los bares
+
+## Consultas sobre restauración
+Para cualquier pregunta relacionada con productos, ingredientes, 
+utensilios o solicitudes específicas en bares o restaurante, 
+el personal del establecimiento correspondiente estará encantado 
+de atenderle.

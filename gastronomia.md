@@ -54,7 +54,7 @@ Cocina **canaria e internacional**, servicio gastronómico durante todo el día,
 P: "¿Qué hay el sábado?"
 ✅ "El sábado ofrecemos menú temático Canario-Español. 
 Para conocer el menú exacto, consulta con el personal 
-del restaurante. 😊"
+del restaurante. 😃"
    
 **Servicio de habitaciones**
 Mismo horario que el **Restaurante Buffet**.
@@ -148,3 +148,20 @@ Los clientes con alergias o dudas deben **informar antes** de consumir cualquier
 ## Normativa sobre bebidas alcohólicas
 
 Queda prohibida la venta y suministro por cualquier medio de bebidas alcohólicas a **menores de 18 años**, incluso con consentimiento de padres o tutores, conforme a la legislación vigente en el Estado Español.
+
+## Precios y menús del restaurante buffet
+* Desayuno: 12€ por persona
+* Almuerzo: 22€ por persona (bebidas no incluidas)
+* Cena: 22€ por persona (bebidas no incluidas)
+* Descuento infantil (hasta 13 años): 50% en todos los servicios
+
+Como alternativa al almuerzo, el Pool Bar ofrece servicio a la carta 
+de 13:00 a 16:00.
+
+Los menús completos (carta y Todo Incluido) están disponibles en:
+* El QR impreso en la tarjeta-llave de la habitación
+* Las pantallas del restaurante y los bares
+
+## Consultas sobre restauración
+Para consultar los menús y cartas, están disponibles en el QR impreso en la tarjeta-llave de la habitación y en las pantallas de los bares y restaurante.
+Para cualquier otra pregunta sobre productos, ingredientes o solicitudes específicas, el personal del bar o restaurante correspondiente estará encantado de atenderle.

@@ -76,6 +76,9 @@ También se realizan sesiones de **manicura** y **pedicura**.
 * Los niños deben estar siempre acompañados por sus padres
 * Horario: Consultar en el panel de animación
 
+### Cómo llegar a las actividades
+La ubicación de cada actividad (aquagym, tiro con arco, billar, etc.) se indica en el panel de animación del hotel.
+
 ---
 
 ## Game Zone
@@ -135,6 +138,9 @@ Gratuito para huéspedes
 
 * **Horario:** **8:00–20:00**
 * **Norma:** menores de **16 años** solo pueden utilizar el gimnasio acompañados por padres o tutores
+
+### Cómo llegar al gimnasio
+A través del SPA (de 10:00 a 18:00) o por la entrada directa desde el parking (de 08:00 a 20:00).
 
 ---
 

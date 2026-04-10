@@ -22,6 +22,20 @@ Todas las habitaciones son **luminosas y espaciosas**, con **terraza o balcón**
 
 ---
 
+## Amenities y equipamiento
+### Alfombrillas de baño
+El hotel no dispone de alfombrillas de baño por motivos higiénico-sanitarios.
+Las bañeras tienen tratamiento antideslizante homologado.
+Para asistencia adicional: recepción, extensión 9.
+
+### Duchas para movilidad reducida
+El hotel dispone de habitaciones con ducha adaptada para personas con movilidad reducida. Consultar disponibilidad en recepción: extensión 9 o +34 922 79 45 13.
+
+### Calefacción
+El hotel dispone de habitaciones con calefacción. Consultar disponibilidad en recepción: extensión 9 o +34 922 79 45 13.
+
+---
+
 # Uso del teléfono en la habitación
 
 * **Llamadas nacionales:** marcar **0 + número**

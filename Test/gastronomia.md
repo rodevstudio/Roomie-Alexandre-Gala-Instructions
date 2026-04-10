@@ -54,7 +54,7 @@ Cocina **canaria e internacional**, servicio gastronómico durante todo el día,
 P: "¿Qué hay el sábado?"
 ✅ "El sábado ofrecemos menú temático Canario-Español. 
 Para conocer el menú exacto, consulta con el personal 
-del restaurante. 😊"
+del restaurante. 😃"
    
 **Servicio de habitaciones**
 Mismo horario que el **Restaurante Buffet**.

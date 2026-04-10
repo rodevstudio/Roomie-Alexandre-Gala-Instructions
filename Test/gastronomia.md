@@ -162,7 +162,5 @@ Los menús completos (carta y Todo Incluido) están disponibles en:
 * Las pantallas del restaurante y los bares
 
 ## Consultas sobre restauración
-Para cualquier pregunta relacionada con productos, ingredientes, 
-utensilios o solicitudes específicas en bares o restaurante, 
-el personal del establecimiento correspondiente estará encantado 
-de atenderle.
+Para consultar los menús y cartas, están disponibles en el QR impreso en la tarjeta-llave de la habitación y en las pantallas de los bares y restaurante.
+Para cualquier otra pregunta sobre productos, ingredientes o solicitudes específicas, el personal del bar o restaurante correspondiente estará encantado de atenderle.

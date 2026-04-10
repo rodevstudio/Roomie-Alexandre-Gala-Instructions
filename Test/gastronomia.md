@@ -140,8 +140,10 @@ Disponible durante **almuerzos y cenas** en el Restaurante Buffet, con elaboraci
 ---
 
 ## Alergias y seguridad alimentaria
-
-Los clientes con alergias o dudas deben **informar antes** de consumir cualquier alimento.
+Los clientes con alergias o intolerancias (incluyendo celiaquía o 
+intolerancia al gluten) deben informar antes de consumir cualquier 
+alimento. El hotel dispone de opciones sin gluten en el restaurante 
+buffet. Consultar disponibilidad con el personal del restaurante.
 
 ---
 

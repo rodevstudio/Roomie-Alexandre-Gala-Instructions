@@ -60,10 +60,13 @@ En pleno centro de Playa de las Américas, a **50 metros de la playa**, con acce
 
 ---
 
-# 🅿Parking
+# Parking
 
 * **Parking interior disponible**
 * **Precio:** 10 €/día
+
+### Cómo llegar al parking
+Acceso mediante el ascensor doble señalizado con una P, al fondo de Recepción.
 
 ---
 

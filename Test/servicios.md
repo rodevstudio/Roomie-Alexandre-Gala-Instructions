@@ -48,10 +48,10 @@ Además, el hotel dispone de **SPA con piscina de hidromasaje**.
 
 ---
 
-## Peluquería
-
-Servicio de peluquería disponible.
-También se realizan sesiones de **manicura** y **pedicura**.
+### Peluquería
+Servicio de peluquería disponible en horario de SPA (10:00-18:00).
+También se realizan sesiones de manicura y pedicura.
+Para consultar disponibilidad contactar con el personal del SPA: extensión 315.
 
 ---
 

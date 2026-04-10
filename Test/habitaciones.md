@@ -22,6 +22,14 @@ Todas las habitaciones son **luminosas y espaciosas**, con **terraza o balcón**
 
 ---
 
+## Amenities y equipamiento
+### Alfombrillas de baño
+El hotel no dispone de alfombrillas de baño por motivos higiénico-sanitarios.
+Las bañeras tienen tratamiento antideslizante homologado.
+Para asistencia adicional: recepción, extensión 9.
+
+---
+
 # Uso del teléfono en la habitación
 
 * **Llamadas nacionales:** marcar **0 + número**

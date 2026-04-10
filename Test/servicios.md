@@ -137,6 +137,9 @@ Gratuito para huéspedes
 * **Horario:** **8:00–20:00**
 * **Norma:** menores de **16 años** solo pueden utilizar el gimnasio acompañados por padres o tutores
 
+### Cómo llegar al gimnasio
+A través del SPA (de 10:00 a 18:00) o por la entrada directa desde el parking (de 08:00 a 20:00).
+
 ---
 
 ## Normas de uso y restricciones
